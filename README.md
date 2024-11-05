@@ -1,5 +1,5 @@
-Jones Biking Company
+# Jones Biking Company
 
-Team members:
+## Team members:
 - Oliver J: Founder, Designer
 - Jacob C: IT Specialist, Designer
