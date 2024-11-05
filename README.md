@@ -2,4 +2,4 @@
 
 ## Team members:
 - Oliver J: Founder
-- Jacob C: IT Specialist
+- Jacob C: IT Specialist, Web Designer
