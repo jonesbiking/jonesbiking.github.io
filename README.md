@@ -1,2 +1,5 @@
-how to add custom domain:
-https://www.youtube.com/watch?v=mPGi1IHQxFM
+Jones Biking Company
+
+Team members:
+- Oliver J: Founder, Designer
+- Jacob C: IT specialist, programmer, Designer
