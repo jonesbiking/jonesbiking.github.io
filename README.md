@@ -1,4 +1,2 @@
-### todo
-- make logo
-- fill in text
-- make google forms
+how to add custom domain:
+https://www.youtube.com/watch?v=mPGi1IHQxFM
