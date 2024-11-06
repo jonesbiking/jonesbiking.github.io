@@ -1,4 +1,4 @@
-# Jones Biking Company
+# Jones Biking
 
 ## Team members:
 - Oliver J: Founder
