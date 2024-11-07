@@ -7,6 +7,5 @@
 
 ## Roles:
 - CEO, CFO, CHRM: Oliver J
-- CIO: Jacob C
+- CIO, CX: Jacob C
 - CMO: Arsalan M
-- CX: ?
