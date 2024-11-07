@@ -2,4 +2,4 @@
 
 ## Team members:
 - Oliver J: Founder
-- Jacob C: Full-stack developer
+- Jacob C: IT specialist, Full-stack developer
