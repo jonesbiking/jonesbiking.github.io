@@ -3,7 +3,7 @@
 ## Team members:
 - Oliver J: Founder, Trail builder
 - Jacob C: IT specialist, Full-stack developer
-- Arsalan M: Social Media and Advertising
+- Arsalan M: Digital Marketing Specialist
 
 ## Roles:
 - CEO, CFO, CHRM: Oliver J
