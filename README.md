@@ -6,8 +6,7 @@
 - Arsalan M: Social Media and Advertising
 
 ## Jobs:
-- Bank managment: Oliver J
-- Digital media & Advertising: Arsalan M
-- Customer support: ?
-- Trail building: Oliver J
-- Website managment & maintenance: Jacob C
+- CEO, CFO, CHRM: Oliver J
+- CIO: Jacob C
+- CMO: Arsalan M
+- CX: ?
