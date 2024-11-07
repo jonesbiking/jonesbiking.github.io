@@ -6,7 +6,7 @@
 - Arsalan M: Social Media and Advertising
 
 ## Jobs:
-- Bank managing: Oliver J
+- Bank managment: Oliver J
 - Digital media & Advertising: Arsalan M
 - Customer support: ?
 - Trail building: Oliver J
