@@ -2,7 +2,7 @@
 
 ## Team members:
 - Oliver J: Founder, Trail builder
-- Jacob C: IT specialist, Full-stack developer
+- Jacob C: IT specialist, Full-stack developer, Database administrator
 - Arsalan M: Digital Marketing Specialist
 
 ## Roles:
