@@ -34,7 +34,7 @@ function startFormSubmit() {
     data = {
         name: document.querySelector("#start-form-name").value,
         email: document.querySelector("#start-form-email").value,
-        options: `Dirt paths: ${document.querySelector("#start-form-dirt-path").checked}
+        options: `Dirt path: ${document.querySelector("#start-form-dirt-path").checked}
                 Dirt berms: ${document.querySelector("#start-form-dirt-berms").checked}
                 Dirt jumps: ${document.querySelector("#start-form-dirt-jumps").checked}
                 Wooden berms: ${document.querySelector("#start-form-wooden-berms").checked}
