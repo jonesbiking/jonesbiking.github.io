@@ -34,7 +34,8 @@ function startFormSubmit() {
     data = {
         name: document.querySelector("#start-form-name").value,
         email: document.querySelector("#start-form-email").value,
-        options: `Dirt berms: ${document.querySelector("#start-form-dirt-berms").checked}
+        options: `Dirt paths: ${document.querySelector("#start-form-dirt-paths").checked}
+                Dirt berms: ${document.querySelector("#start-form-dirt-berms").checked}
                 Dirt jumps: ${document.querySelector("#start-form-dirt-jumps").checked}
                 Wooden berms: ${document.querySelector("#start-form-wooden-berms").checked}
                 Wooden jumps: ${document.querySelector("#start-form-wooden-jumps").checked}
@@ -47,6 +48,7 @@ function startFormSubmit() {
 
     document.querySelector("#start-form-name").value = "";
     document.querySelector("#start-form-email").value = "";
+    document.querySelector("#start-form-dirt-paths").checked = false;
     document.querySelector("#start-form-dirt-berms").checked = false;
     document.querySelector("#start-form-dirt-jumps").checked = false;
     document.querySelector("#start-form-wooden-berms").checked = false;
