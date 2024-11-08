@@ -9,3 +9,7 @@
 - CEO, CFO, CHRM: Oliver J
 - CIO, CX: Jacob C
 - CMO: Arsalan M
+
+## THIS WEBSITE USES:
+- Bootstrap for website design
+- EmailJs for form submition
