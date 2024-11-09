@@ -55,7 +55,7 @@ function startFormSubmit() {
     document.querySelector("#start-form-wooden-jumps").checked = false;
     document.querySelector("#start-form-skinnies").checked = false;
     document.querySelector("#start-form-rock-gardens").checked = false;
-    document.querySelector("#start-form-number-features").value = 1;
+    document.querySelector("#start-form-number-features").value = "";
     document.querySelector("#start-form-notes").value = "";
 
     // emailjs.send("service_t9ifro2", "template_6pvypng", data).then(() => {
